@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -1.8795,
+    "lat": 50.7205
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 13.33,
+    "feels_like": 13.02,
+    "temp_min": 12.65,
+    "temp_max": 13.79,
+    "pressure": 1002,
+    "humidity": 88,
+    "sea_level": 1002,
+    "grnd_level": 1000
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 8.23,
+    "deg": 190
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1765276685,
+  "sys": {
+    "type": 2,
+    "id": 2082605,
+    "country": "GB",
+    "sunrise": 1765267044,
+    "sunset": 1765296161
+  },
+  "timezone": 0,
+  "id": 2655095,
+  "name": "Bournemouth",
+  "cod": 200,
+  "_last_updated_utc": "2025-12-09T10:38:25.003Z"
+}
