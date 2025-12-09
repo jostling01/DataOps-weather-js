@@ -24,14 +24,14 @@
   },
   "visibility": 10000,
   "wind": {
-    "speed": 7.72,
-    "deg": 190,
-    "gust": 12.86
+    "speed": 9.26,
+    "deg": 200,
+    "gust": 15.95
   },
   "clouds": {
     "all": 75
   },
-  "dt": 1765283567,
+  "dt": 1765284360,
   "sys": {
     "type": 2,
     "id": 2082605,
@@ -43,5 +43,5 @@
   "id": 2655095,
   "name": "Bournemouth",
   "cod": 200,
-  "_last_updated_utc": "2025-12-09T12:32:47.323Z"
+  "_last_updated_utc": "2025-12-09T12:53:04.942Z"
 }
