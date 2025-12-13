@@ -8,7 +8,7 @@
       "id": 741,
       "main": "Fog",
       "description": "fog",
-      "icon": "50n"
+      "icon": "50d"
     }
   ],
   "base": "stations",
@@ -16,21 +16,21 @@
     "temp": -1.07,
     "feels_like": -1.07,
     "temp_min": -1.07,
-    "temp_max": 7.09,
+    "temp_max": 5.98,
     "pressure": 1027,
     "humidity": 100,
     "sea_level": 1027,
-    "grnd_level": 1025
+    "grnd_level": 1026
   },
-  "visibility": 400,
+  "visibility": 900,
   "wind": {
-    "speed": 0,
-    "deg": 0
+    "speed": 0.51,
+    "deg": 350
   },
   "clouds": {
     "all": 0
   },
-  "dt": 1765607720,
+  "dt": 1765614576,
   "sys": {
     "type": 1,
     "id": 1401,
@@ -42,5 +42,5 @@
   "id": 2655095,
   "name": "Bournemouth",
   "cod": 200,
-  "_last_updated_utc": "2025-12-13T06:35:20.813Z"
+  "_last_updated_utc": "2025-12-13T08:29:36.952Z"
 }
