@@ -5,42 +5,43 @@
   },
   "weather": [
     {
-      "id": 741,
-      "main": "Fog",
-      "description": "fog",
-      "icon": "50n"
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 3.93,
-    "feels_like": 3.93,
-    "temp_min": 3.93,
-    "temp_max": 5.67,
-    "pressure": 1017,
-    "humidity": 100,
-    "sea_level": 1017,
-    "grnd_level": 1015
+    "temp": 10.43,
+    "feels_like": 9.77,
+    "temp_min": 10.43,
+    "temp_max": 10.43,
+    "pressure": 1015,
+    "humidity": 86,
+    "sea_level": 1015,
+    "grnd_level": 1013
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0,
-    "deg": 0
+    "speed": 3.81,
+    "deg": 197,
+    "gust": 5.34
   },
   "clouds": {
-    "all": 20
+    "all": 14
   },
-  "dt": 1766183043,
+  "dt": 1766195482,
   "sys": {
-    "type": 1,
-    "id": 1401,
+    "type": 2,
+    "id": 2037678,
     "country": "GB",
-    "sunrise": 1766131552,
-    "sunset": 1766160207
+    "sunrise": 1766217987,
+    "sunset": 1766246629
   },
   "timezone": 0,
   "id": 2655095,
   "name": "Bournemouth",
   "cod": 200,
-  "_last_updated_utc": "2025-12-19T22:24:03.686Z"
+  "_last_updated_utc": "2025-12-20T01:51:22.043Z"
 }
