@@ -13,25 +13,25 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 17.23,
-    "feels_like": 17.15,
+    "temp": 17.22,
+    "feels_like": 17.16,
     "temp_min": 16.75,
     "temp_max": 17.31,
     "pressure": 1014,
-    "humidity": 82,
+    "humidity": 83,
     "sea_level": 1014,
-    "grnd_level": 1013
+    "grnd_level": 1012
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0.45,
-    "deg": 238,
-    "gust": 1.79
+    "speed": 0.89,
+    "deg": 233,
+    "gust": 2.68
   },
   "clouds": {
-    "all": 90
+    "all": 97
   },
-  "dt": 1787015996,
+  "dt": 1787021870,
   "sys": {
     "type": 2,
     "id": 2082605,
@@ -43,5 +43,5 @@
   "id": 2655095,
   "name": "Bournemouth",
   "cod": 200,
-  "_last_updated_utc": "2026-08-18T01:23:13.587Z"
+  "_last_updated_utc": "2026-08-18T02:57:50.803Z"
 }
